@@ -10,8 +10,8 @@ An analysis of the forces required to drag sheep over various surfaces
 DW Ziegler et al., 2005
 The neurocognitive effects of alcohol on adolescents and college students
 
-This figure plots both the number of WO students [x1000] and the beer consumption [x1000 hectaliter] against time in years. It also displays the correlation of the two metrics
+This figure plots both the number of WO students [x1000] and the beer consumption [x1000 hectaliter] against time in years. It also displays the correlation of the two metrics.
 
-![plot](plots/beer_vs_students.png)
+![figure](plots/beer_vs_students.png)
 
 From this plot and the correlation of 0.82, the conclusion could be drawn that the number of students and alcohol consumptions are dependent on one another. This conclusion should however not be made without further analysing the dependence.
